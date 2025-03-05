@@ -121,4 +121,4 @@ Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
 <!-- Reference Links -->
 
 [ext_pypi]: https://pypi.org/project/sherlock-project/
-[ext_brew]: https://formulae.brew.sh/formula/sherlock
+  [ext_brew]: https://formulae.#brew.sh/formula/sherlock
